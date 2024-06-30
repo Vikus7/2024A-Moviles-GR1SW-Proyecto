@@ -83,7 +83,7 @@
 | **ID** | US007 |
 |--------|-------|
 | **Título** | Buscar registros de gastos |
-| **Descripción** | Yo, como usuario de la aplicación de registro de gastos, quiero poder buscar registros de gastos por diferentes criterios como categoría como: servicios básicos, entretenimiento, alimentación, vestimenta, fecha o monto para encontrar rápidamente la información que necesito. |
+| **Descripción** | Yo, como usuario de la aplicación de registro de gastos, quiero poder buscar registros de gastos por diferentes criterios como categoría como: servicios básicos, entretenimiento, alimentación, vestimenta, pago deuda, fecha o monto para encontrar rápidamente la información que necesito. |
 | **Criterio de Aceptación** | 1. El usuario puede acceder a una función de búsqueda desde la pantalla principal.<br>2. El usuario puede buscar registros de gastos usando criterios como categoría, fecha y monto.<br>3. Los resultados de la búsqueda se muestran en una lista con los detalles de los gastos coincidentes. |
 | **Estimación** | 5 puntos (Scrum Poker) |
 | **Definición de Done** | - La funcionalidad de búsqueda está completamente implementada y probada.<br>- La interfaz de usuario permite realizar búsquedas fácilmente.<br>- El código ha pasado las revisiones de calidad y se ha integrado en la rama principal del proyecto.<br>- Los resultados de búsqueda son precisos y relevantes. |
