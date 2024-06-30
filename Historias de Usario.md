@@ -95,19 +95,6 @@
 
 | **ID** | US008 |
 |--------|-------|
-| **Título** | Categorizar los gastos |
-| **Descripción** | Yo, como usuario de la aplicación de registro de gastos, quiero poder categorizar mis gastos para poder organizarlos mejor y analizar mis patrones de gasto en diferentes categorías. |
-| **Criterio de Aceptación** | 1. El usuario puede seleccionar una categoría al registrar un nuevo gasto.<br>2. El usuario puede ver las categorías de los gastos en la lista de gastos recientes.<br>3. El usuario puede filtrar los gastos por categoría en la función de búsqueda. |
-| **Estimación** | 3 puntos (Scrum Poker) |
-| **Definición de Done** | - La funcionalidad de categorización está completamente implementada y probada.<br>- La interfaz de usuario permite seleccionar y mostrar categorías de manera intuitiva.<br>- El código ha pasado las revisiones de calidad y se ha integrado en la rama principal del proyecto.<br>- Los gastos se organizan y filtran correctamente por categoría. |
-| **Definición de Ready** | - Los criterios de aceptación están claramente definidos.<br>- Las dependencias necesarias (lista de categorías, base de datos) están listas.<br>- El equipo ha discutido la historia y está de acuerdo con la estimación. |
-
----
-
-## Historia de Usuario 9
-
-| **ID** | US009 |
-|--------|-------|
 | **Título** | Agregar comentarios a un registro de gastos |
 | **Descripción** | Yo, como usuario de la aplicación de registro de gastos, quiero poder agregar comentarios a un registro de gastos para poder proporcionar detalles adicionales o notas personales sobre cada gasto. |
 | **Criterio de Aceptación** | 1. El usuario puede agregar un comentario al registrar un nuevo gasto o al editar un gasto existente.<br>2. Los comentarios se guardan en la base de datos junto con los otros detalles del gasto.<br>3. Los comentarios se muestran en la lista de gastos recientes y en la pantalla de detalles del gasto. |
@@ -117,9 +104,9 @@
 
 ---
 
-## Historia de Usuario 10
+## Historia de Usuario 9
 
-| **ID** | US010 |
+| **ID** | US009 |
 |--------|-------|
 | **Título** | Ver el saldo de la cuenta |
 | **Descripción** | Yo, como usuario de la aplicación de registro de gastos, quiero poder ver el saldo actual de mi cuenta para tener un control claro de mis finanzas y saber cuánto dinero tengo disponible. |
