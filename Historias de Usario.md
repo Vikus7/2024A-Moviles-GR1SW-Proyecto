@@ -116,3 +116,5 @@
 | **Definición de Ready** | - Los criterios de aceptación están claramente definidos.<br>- Las dependencias necesarias (base de datos, lógica de cálculo de saldo) están listas.<br>- El equipo ha discutido la historia y está de acuerdo con la estimación. |
 
 ---
+
+Enlace a la definición del diseño: https://epnecuador-my.sharepoint.com/:v:/g/personal/rafael_castro_epn_edu_ec/EfFmLCp7buVBnULiXIo_vtcBkd2kERKFcmxUis5TIIThZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BmpWsF 
